@@ -3,4 +3,5 @@
 ## 1-1 세부 항목
 * 안냥 
 * 하세여
-* feature/cart
+* feature/cart가 첫 번째 파일을 수정함
+* featuer/mypage가 첫 번째 파일을 수정함
